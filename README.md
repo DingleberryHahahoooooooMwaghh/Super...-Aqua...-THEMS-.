@@ -1,7 +1,12 @@
-# Super-Aqua-Theysters
-Tried to make aqua into the NES Game "Super Mario Bros", It looks bad and stuff, But it works i guess
+**# Super-Aqua-Themsters**!
 
-You dont need any converters or stuff to run it, It comes as a .NES file, This is in beta so expect poor graphics and quality, But atleast it works????
+...
+...Tried to make aqua, Yk, From deltarune into the NES Game "Super Mario Bros", Some nerdy vintage computer nerd stuff later, Aqua is now in Super Mario Bros. 1 for the NES.
+...This could actually be able to run on a real Nintendo Entertainment Console!
 
-oh yeah also making it so at the end instead of princess peach its seth
-yeah so im still making it (wish me gl i dont know SHIT bout this)
+You dont need any converters or stuff to run it, It comes as a .NES file, But i think its a NTSC Format... And i live in a pal country, So i hope you can tell me if it actually works!
+
+oh yeah also making it so at the end instead of princess peach its seth, But its not going too swell...
+yeah so im still making it, Wish me luck!!!!!
+
+...Maybe ill make orange next!
